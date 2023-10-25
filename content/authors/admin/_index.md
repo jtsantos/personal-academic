@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: João Tadeu Santos
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: João Tadeu
+last_name: Santos
 
 # Status emoji
 status:
@@ -14,34 +14,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student at University of São Paulo | Researcher at SiDi
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of São Paulo
+    url: https://www.usp.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include blockchain, artificial intelligence, quantum computing, virtual power plants, smart cities, grid-interactive for smart communities and future of energy sector.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Blockchain
+  - Quantum Computing
+  - Future of Energy Sector
+  - Distributed Energy Resource
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Student in Energy Planning
+      institution: University of São Paulo 
+      year: 2027
+    - course: MSc in Energy Planning
+      institution: University of São Paulo
+      year: 2021
+    - course: Tec in Information Technology Management 
+      institution: FIAP
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,12 +68,16 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
+  - icon: researchgate
+    icon_pack: fab
+    link: researchgate
+# Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +86,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+João Tadeu Santos is PhD Student of Energy Planing at the University of São Paulo. His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
